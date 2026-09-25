@@ -48,6 +48,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      url: `${baseUrl}/csr`,
+      lastModified: new Date("2024-06-22"),
+      changeFrequency: "monthly",
+      priority: 0.7,
+    },
+    {
       url: `${baseUrl}/procurement`,
       lastModified: new Date("2024-06-22"),
       changeFrequency: "monthly",

@@ -6,6 +6,7 @@ export const navigation = {
     { label: "Operations", href: "/operations" },
     { label: "Quality & Technology", href: "/quality" },
     { label: "Sustainability", href: "/sustainability" },
+    { label: "CSR", href: "/csr" },
     { label: "Procurement", href: "/procurement" },
     { label: "Gallery", href: "/gallery" },
     { label: "Careers", href: "/careers" },
@@ -16,6 +17,7 @@ export const navigation = {
     company: [
       { label: "About Us", href: "/about" },
       { label: "Operations", href: "/operations" },
+      { label: "CSR", href: "/csr" },
       { label: "Procurement", href: "/procurement" },
       { label: "Gallery", href: "/gallery" },
       { label: "Careers", href: "/careers" },
