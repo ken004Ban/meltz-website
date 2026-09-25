@@ -1,0 +1,40 @@
+export const team = {
+  leadership: [
+    {
+      id: "cfo",
+      name: "Tomas Del Rio",
+      role: "Chief Financial Officer",
+      image: "/images/team/cfo.jpg",
+      phone: "+260 964 217 612",
+      location: "Lusaka, Zambia",
+    },
+    {
+      id: "deputy-plant-director",
+      name: "Wen Xiaocheng",
+      role: "Deputy Plant Director",
+      image: "/images/team/wen-xiaocheng.jpg",
+      phone: "",
+      location: "Kalumbila, Zambia",
+    },
+    {
+      id: "hr-manager",
+      name: "Sakala-Chongo Essy",
+      role: "Human Resources Manager",
+      image: "/images/team/hr-manager.jpg",
+      phone: "",
+      location: "Kalumbila, Zambia",
+    },
+  ],
+  groupPhotos: [
+    { src: "/images/team/team-1.jpg", alt: "MELTZ team members" },
+    { src: "/images/team/team-2.jpg", alt: "MELTZ team members" },
+    { src: "/images/team/team-3.jpg", alt: "MELTZ team members" },
+    { src: "/images/team/team-4.jpg", alt: "MELTZ team members" },
+    { src: "/images/team/team-5.jpg", alt: "MELTZ team members" },
+    { src: "/images/team/team-6.jpg", alt: "MELTZ team members" },
+    { src: "/images/team/team-7.jpg", alt: "MELTZ team members" },
+    { src: "/images/team/team-8.jpg", alt: "MELTZ team members" },
+    { src: "/images/team/team-9.jpg", alt: "MELTZ team members" },
+    { src: "/images/team/team-10.jpg", alt: "MELTZ team members" },
+  ],
+};
